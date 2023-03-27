@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mojianhua01, a senior engineer with Samsung Research America
+- 👋 Hi, I’m @mojianhua01, a senior staff engineer with Samsung Research America
 - 👀 I’m interested in 5G/6G wireless communications
 - 🌱 I’m currently learning machine learning and its application on wireless communications.
 - 💞️ I’m looking for summer interns.
