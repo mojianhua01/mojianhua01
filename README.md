@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @mojianhua01
-- 👀 I’m interested in 5G/6G wireless communications
-- 🌱 I’m currently learning machine learning and its application on wireless communications.
-- 📫 How to reach me: send Email to mojianhua01@gmail.com
+# Hi there, I'm Jianhua Mo! 👋
 
-<!---
-mojianhua01/mojianhua01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **About Me:**
+- 🔭 I’m working on **Wireless Communications & 6G**
+- 🌱 I’m currently learning **AI-Driven Wireless Networks**
+- 💬 Ask me about **6G, AI, and Communications**
+- 📫 How to reach me: [Email](mailto:mojianhua01@gmail.com)
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar)](https://scholar.google.com/citations?user=mojianhua01)
